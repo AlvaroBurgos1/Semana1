@@ -135,4 +135,5 @@ numero4.innerHTML = "El valor descontado por pensión es de $"+Pension;
 var numero5 = document.getElementById('Label5');
 numero5.innerHTML = "El valor neto a pagar despues de retenciones es de $"+Valneto;
 
+
 }
